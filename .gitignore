@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+*.pem
+*.key
+*.pfx
+.patch-*.mjs
+.DS_Store
+Thumbs.db
